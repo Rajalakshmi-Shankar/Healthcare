@@ -33,16 +33,3 @@ python app.py
 
 ### 5. Access the Website
 - [HealthCare-click to open](https://roy707545.pythonanywhere.com/)
-
-
-
-
-
-## 📧 Contact
-For inquiries or collaboration opportunities, reach out via:
-- Email: [sidhusidharth7075@gmail.com](mailto:sidhusidharth7075@gmail.com)
-- LinkedIn: [LohithSappa](https://www.linkedin.com/in/lohith-sappa-aab07629a/)
-
----
-⭐ Don't forget to **star** this repository if you found it helpful!
-
