@@ -31,5 +31,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 5. Access the Website
-- [HealthCare-click to open](https://roy707545.pythonanywhere.com/)
+
