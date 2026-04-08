@@ -6,7 +6,6 @@ A web-based healthcare management system built with **Flask** . This app allows 
 
 
 
-
 ## 🛠️ Installation
 
 ### 1. Clone the Repository
